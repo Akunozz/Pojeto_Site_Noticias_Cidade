@@ -1,2 +1,2 @@
-# Pojeto_Site_de_Noticias_Cidade
- 
+# Estudos
+ Projeto de um site chamado Notícias Cidade, do curso Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
